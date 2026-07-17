@@ -86,7 +86,11 @@ I love experimenting with new technologies and contributing to projects that hel
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Isometric Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayimburak/sayimburak/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayimburak/sayimburak/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sayimburak/sayimburak/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 <div align="center">
